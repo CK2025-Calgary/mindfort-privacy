@@ -20,7 +20,7 @@ MindFort is a mood and stressor tracking app developed by CK2025-Calgary. We are
 - We may update this policy as the app evolves. Check this page for the latest version.
 
 ## Contact Us
-- For questions, email jupiterking2022@gmailcom.
+- For questions, email jupiterking2022@gmail.com .
 
 ## Disclaimer
 - MindFort is not a medical or mental health service. It is not a substitute for professional advice. Consult a healthcare provider for serious concerns.
